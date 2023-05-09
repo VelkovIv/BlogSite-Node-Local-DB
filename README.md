@@ -1,7 +1,10 @@
 # BlogSite-node
 
-This is blog site wotking on Node <img src='https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-svg-vector.svg' height=30px>, Express <img src='https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-svg-vector.svg' height=30px>, Bootstrap <img src='https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg' height=20px>
- and <%= EJS %>
+This is blog site wotking with Node, Express, Bootstrap and <%= EJS %> <br>
+<img src='https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-svg-vector.svg' height=30px>
+<img src='https://www.moesif.com/blog/images/posts/2022-12-15-Top-5-NodeJs-REST-API-Frameworks/Expressjs.png' height=40px>
+<img src='https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg' height=30px>
+<img src='https://process.filestackapi.com/cache=expiry:max/resize=width:700/TyzZKw86QzSElYK6bfXK' height=50px>
 
 Home page
 
