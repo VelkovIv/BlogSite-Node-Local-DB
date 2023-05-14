@@ -49,7 +49,7 @@ app.post('/compose', (req, res) => {
 
 });
 
-app.get('/posts/:postName', (req, res) => {
+app.get('/:postName', (req, res) => {
   const requestedTitle = _.kebabCase(req.params.postName);
   posts.forEach(post => {
     const storedTitle = _.kebabCase(post.title);
