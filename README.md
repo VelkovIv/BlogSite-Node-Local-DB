@@ -1,4 +1,4 @@
-# BlogSite-Node-LOcal DB
+# BlogSite-Node-Local DB
 
 This is blog site wotking with Node, Express, Bootstrap and <%= EJS %> <br>
 <img src='https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-svg-vector.svg' height=30px>
